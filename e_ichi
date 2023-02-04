@@ -1,0 +1,175 @@
+%!PS-Adobe-2.0 EPSF-1.2
+%%Title: Figure(s) by psgr(fig/fdrw).
+%%For: kim.hyunwoo
+%%CreationDate: Sat Feb  4 15:48:54 2023
+%%BoundingBox: 92 559 308 773
+%%EndComments
+
+%%BeginProlog
+/BD{bind def}bind def
+/MT{moveto}BD
+/LT{lineto}BD
+/RMT{rmoveto}BD
+/RLT{rlineto}BD
+/ST{stroke}BD
+/FnC{/Courier}BD
+/FnCO{/Courier-Oblique}BD
+/FnCB{/Courier-Bold}BD
+/FnCBO{/Courier-BoldOblique}BD
+/FnS{/Symbol}BD
+/SF{
+  exch findfont exch
+  dup type /arraytype eq{makefont}{scalefont}ifelse
+  setfont
+}BD
+/MS{MT show}BD
+/RMS{RMT show}BD
+/GS{gsave}BD
+/GR{grestore}BD
+/NP{newpath}BD
+/RP{
+dup type dup /integertype eq exch /realtype eq or {
+    4 -2 roll MT
+    dup 0 exch RLT exch 0 RLT
+    neg 0 exch RLT closepath
+  }{
+    dup length 4 sub 0 exch 4 exch
+    {
+      1 index exch 4 getinterval
+      aload pop
+      RP
+    }for
+    pop
+  }ifelse
+}BD
+/RS{GS NP RP stroke GR}BD
+/RF{GS NP RP fill GR}BD
+/RC{NP RP clip NP}BD
+/TR{translate}BD
+/SL{setlinewidth}BD
+/SG{setgray}BD
+%%EndProlog
+
+%%BeginSetup
+%%PaperSize: FALSE
+%%PageOrientation: Portrait
+%%Feature: *ManualFeed False
+%%Feature: *Resolution 600
+%%EndSetup
+
+15 15 translate
+0.283465 0.283465 scale
+2.00 SL
+0 setlinejoin
+2.00 SL
+1 setlinejoin
+2.00 SL
+0 setlinejoin
+400 2050 MT
+1000 2050 LT
+ST
+1000 2050 MT
+1000 2650 LT
+ST
+1000 2650 MT
+400 2650 LT
+ST
+400 2650 MT
+400 2050 LT
+ST
+2.00 SL
+0 setlinejoin
+400 2050 MT
+400 2065 LT
+ST
+400 2650 MT
+400 2635 LT
+ST
+FnC [37 0 0 42 0 0] SF
+(0) 391 2010 MS
+550 2050 MT
+550 2065 LT
+ST
+550 2650 MT
+550 2635 LT
+ST
+(2) 541 2010 MS
+700 2050 MT
+700 2065 LT
+ST
+700 2650 MT
+700 2635 LT
+ST
+(4) 691 2010 MS
+850 2050 MT
+850 2065 LT
+ST
+850 2650 MT
+850 2635 LT
+ST
+(6) 841 2010 MS
+1000 2050 MT
+1000 2065 LT
+ST
+1000 2650 MT
+1000 2635 LT
+ST
+(8) 991 2010 MS
+(Frequency \(kHz\)) 537 1955 MS
+400 2050 MT
+415 2050 LT
+ST
+1000 2050 MT
+985 2050 LT
+ST
+(0) 367 2038 MS
+400 2170 MT
+415 2170 LT
+ST
+1000 2170 MT
+985 2170 LT
+ST
+(20) 345 2158 MS
+400 2290 MT
+415 2290 LT
+ST
+1000 2290 MT
+985 2290 LT
+ST
+(40) 345 2278 MS
+400 2410 MT
+415 2410 LT
+ST
+1000 2410 MT
+985 2410 LT
+ST
+(60) 345 2398 MS
+400 2530 MT
+415 2530 LT
+ST
+1000 2530 MT
+985 2530 LT
+ST
+(80) 345 2518 MS
+400 2650 MT
+415 2650 LT
+ST
+1000 2650 MT
+985 2650 LT
+ST
+(100) 323 2638 MS
+308 2154 MT
+90 rotate
+(Log magnitude \(dB\)) show
+-90 rotate
+GS
+400 2050 600 600 RC
+[1 7] 0 setdash
+400 2050 MT
+1000 2050 LT
+ST
+[] 0 setdash
+GR
+%Trailer
+showpage
+%%EOF
